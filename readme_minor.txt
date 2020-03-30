@@ -1,0 +1,3 @@
+This is a simple color sensor using Arduino Uno R3 and TCS3200 color sensor module. It can be useful for color identification and detection for food-processing units, color printer applications, paint-mixing applications and other industrial applications including robotics.
+
+This project is used for detecting primary colors (red, green and blue, or RGB)—colors that are physically available in LEDs in one package; for example, common cathode or common-cathode RGB LED. We can display primary colors and also generate specific colors by modifying the Arduino code. The project demonstrates the basic interfacing of TCS3200 sensor, Arduino Uno and common-cathode RGB LED.
